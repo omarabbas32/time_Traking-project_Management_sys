@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+dist/
+out/
+build/
+
+# NuGet packages
+*.nupkg
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
